@@ -80,14 +80,14 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item text-white">
-                <a href="/newUser" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
+                <a href="/newUser" class="nav-link text-white">
+                  <i class="far fa-circle nav-icon text-white"></i>
                   <p>Add User</p>
                 </a>
               </li>
               <li class="nav-item text-white">
-                <a href="/viewUsers" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
+                <a href="/viewUsers" class="nav-link text-white">
+                  <i class="far fa-circle nav-icon text-white"></i>
                   <p>View Users</p>
                 </a>
               </li>
@@ -103,13 +103,13 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item text-white">
-                <a href="/addClient" class="nav-link">
+                <a href="/addClient" class="nav-link text-white">
                   <i class="far fa-circle nav-icon text-white"></i>
                   <p>Add Owner</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="/viewClients" class="nav-link">
+                <a href="/viewClients" class="nav-link text-white">
                   <i class="far fa-circle nav-icon text-white"></i>
                   <p>View Owners</p>
                 </a>
@@ -127,7 +127,7 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item text-white">
-                <a href="/viewProperties" class="nav-link">
+                <a href="/viewProperties" class="nav-link text-white">
                   <i class="far fa-circle nav-icon text-white"></i>
                   <p>View Properties</p>
                 </a>
